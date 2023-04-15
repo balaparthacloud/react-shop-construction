@@ -6,6 +6,7 @@ par@Pars-iMac react-shop-construction % node -v
 v14.13.0
 ```
 
+V1.0
 
 
 # Getting Started with Create React App
